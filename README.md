@@ -3,6 +3,9 @@ wildcard_dns_proxy
 
 This is a proxying DNS server that supports wildcards in /etc/hosts.  It's not written by Real Geeks, we are just hosting it here to make it easier to install from scripts and stuff.
 
+## Credits
+
+This script is written by Marlon Yao (yaolei135@gmail.com)
 
 ## Usage
 
