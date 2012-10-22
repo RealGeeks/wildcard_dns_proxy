@@ -28,3 +28,7 @@ $ dig test.local
 ```
 
 The result should contain 127.0.0.1.
+
+## License
+
+This project is licensed under the [BSD License](http://opensource.org/licenses/BSD-3-Clause)
