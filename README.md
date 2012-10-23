@@ -13,6 +13,8 @@ This script is written by Marlon Yao (yaolei135@gmail.com)
 
 If you're on Archlinux, I made a package for you: https://aur.archlinux.org/packages.php?ID=63851
 
+You will need to add localhost as your DNS server in /etc/resolv.conf
+
 ## Usage
 
 Edit /etc/hosts, add:
