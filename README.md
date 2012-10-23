@@ -7,6 +7,12 @@ This is a proxying DNS server that supports wildcards in /etc/hosts.  It's not w
 
 This script is written by Marlon Yao (yaolei135@gmail.com)
 
+#Installation
+
+`python setup.py install`
+
+If you're on Archlinux, I made a package for you: https://aur.archlinux.org/packages.php?ID=63851
+
 ## Usage
 
 Edit /etc/hosts, add:
